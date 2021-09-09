@@ -1,1 +1,2 @@
-Hello, my first day with git
+Hello, my first day with git.
+I added this text :)
